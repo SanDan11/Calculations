@@ -12,7 +12,8 @@ fn exit() {
         .expect("Failed to close terminal");
 }
 
-fn array_count() {
+fn word_stringer() {
+    
 
 }
 
